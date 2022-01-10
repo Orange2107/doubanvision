@@ -2,12 +2,12 @@
  ### 豆瓣爬虫数据的可视化
 
 - 利用flask框架搭建网页
+![image](https://user-images.githubusercontent.com/70784569/148787048-e83151ee-4e37-4bb3-b291-bd55d657ec5b.png)
 
-  ![image-20220110224901853](/Users/chenzijie/Library/Application Support/typora-user-images/image-20220110224901853.png)
 
 - 实现从sqlite数据库查询数据，在网页的实现。
+![image](https://user-images.githubusercontent.com/70784569/148787143-2f624420-b78a-4488-9f6d-b84beecef2f8.png)
 
-  ![image-20220110225119631](/Users/chenzijie/Library/Application Support/typora-user-images/image-20220110225119631.png)
 
   ### Pycharm中sqlite的使用
 
