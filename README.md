@@ -174,5 +174,7 @@
    ).generate(result)  #生成词云对象
    wc.to_file("gbb.png") 
    ```
+词云的流程图
+![image](https://user-images.githubusercontent.com/70784569/149539966-a1091847-fd66-42cc-af00-17014727ff59.png)
 
    
